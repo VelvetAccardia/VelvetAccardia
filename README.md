@@ -102,10 +102,10 @@
 <br/>  
 
 
-## Recent Blog Posts  
+ 
   
 
-<br/>  
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=arthurpacino&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
 
